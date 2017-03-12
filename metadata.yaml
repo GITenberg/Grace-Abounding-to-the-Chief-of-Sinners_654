@@ -1,5 +1,5 @@
 _repo: Grace-Abounding-to-the-Chief-of-Sinners_654
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Copping, Harold
@@ -9,9 +9,7 @@ contributor:
     url: http://www.gutenberg.org/2009/agents/34675
 covers:
 - cover_type: archival
-  image_path: 654/654-h/images/covers.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 654-h/images/coverb.jpg
 creator:
   author:
     agent_name: Bunyan, John
@@ -27,6 +25,8 @@ description: '"My grace is sufficient for thee" (2 Corinthians 12:9). Before Pil
   to be talked of as one that was truly godly."For many years, John-like all Christians-struggled
   with his sinful nature. In Grace Abounding, he honestly declares his shortcomings,
   and knows that he must overcome them to fulfill his destiny."'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/654#Grace-Abounding-to-the-Chief-of-Sinners
 gutenberg_bookshelf: Christianity
 gutenberg_issued: '1996-09-01'
 gutenberg_type: Text
